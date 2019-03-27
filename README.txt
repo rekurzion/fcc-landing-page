@@ -1,2 +1,2 @@
-https://rekurzion.github.io/landing-page/
+https://rekurzion.github.io/fcc-landing-page/
  
